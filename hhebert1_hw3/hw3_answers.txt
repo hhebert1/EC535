@@ -1,0 +1,31 @@
+-------------------------------------------------------------------
+Part 1
+-------------------------------------------------------------------
+
+FFT original 
+Total: 55574257
+fff_float: 17757407
+
+FFT optimized
+Total: 54908497
+fff_float: 17091612
+
+Inverse FFT original
+Total: 55943932
+fff_float: 18126924
+
+Inverse FFT optimized
+Total: 55366479
+fff_float: 17549561
+
+
+My optimization results in speedup because I was able to change several variable types to a lower precision. I also was able to unroll a key loop in order that it doesn't need to access the memory of the index variable quite as often. 
+
+-------------------------------------------------------------------
+Part 2
+-------------------------------------------------------------------
+
+M1: worst case m1 is blocked by m4 finishing transmission, w1 = q1 + c1, w1 = 12 + 21 = 33
+M2: worst case m2 is blocked by m1: w2 = q2 + c2, w2 = 12 + 6 = 18
+M3: worst case m3 blocked by m1 and m2: w3 = q3 + c3, w3 = 12 + 6 + 12 = 30
+M4: worst case m4 blocked by m1, m2, amd m3: w4 = q4 + c4 = 30 + 21 = 51

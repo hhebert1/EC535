@@ -1,0 +1,1 @@
+C:\Users\dunca\Desktop\exerSnake\Windows8App\BluetoothCommunicationSampleController\BluetoothCommunicationSampleController.csproj;x86

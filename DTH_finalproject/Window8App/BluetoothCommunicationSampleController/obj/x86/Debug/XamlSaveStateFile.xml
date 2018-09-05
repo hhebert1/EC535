@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\dunca\downloads\bluetooth communication between arduino and windows 8.1\c#\bluetoothcommunicationsamplecontroller\obj\x86\debug\intermediatexaml\bluetoothcommunicationsamplecontroller.exe" HashGuid="fea195d9-facc-ca43-d4fe-1aad6fce9029" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.kinect.visualgesturebuilder\2.0\references\commonconfiguration\neutral\microsoft.kinect.visualgesturebuilder.winmd" HashGuid="e7f2ed96-d630-2d07-67b0-7a56f2684922" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.data.winmd" HashGuid="bec3b354-5b74-1234-191f-25a435755c0a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\windowspreview.kinect\2.0\references\commonconfiguration\neutral\windowspreview.kinect.winmd" HashGuid="d7412096-a3c7-9108-a946-0ff0cc614d3f" />
+    <ReferenceAssembly PathName="c:\users\dunca\desktop\exersnake\windows8app\packages\tcd.controls.3.0.1\lib\netcore451\tcd.controls.dll" HashGuid="849c199e-c94e-00fb-f9d6-119512797d13" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
